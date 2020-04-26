@@ -1,5 +1,5 @@
 import os
-import sys
+
 
 class NewDirectory():
     """docstring for ."""
